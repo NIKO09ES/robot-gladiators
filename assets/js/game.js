@@ -1,3 +1,4 @@
+//ROBOT GAME
 var getPlayerName = function() {
   var name = "";
 
